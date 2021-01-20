@@ -1,0 +1,60 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-color: lightgray;
+}
+.header-logo{
+	width: 1240px;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+img{
+    width: 100%;
+    
+}
+.wrapper{
+    height: 800px;
+	width: 1000px;
+    margin: 40px auto;
+    
+	
+}
+.menu{
+    width: 100%;
+    height: 340px;
+    background-color: white;
+}
+.form{
+    width: 70%;
+    background-color: azure;
+    margin: 50px auto;
+    padding: 50px;
+}
+footer{
+    position: fixed;
+	bottom: 0;
+	width: 100%;
+	height: 70px;
+	background-color: rgb(153, 203, 214);
+
+}
+
+td , th{
+    padding: 7px;
+    border: 1px solid black;
+}
+
+a{
+    text-decoration: none;
+    font-size: 20px;
+    text-align: center;
+    color: black;
+    padding: 10px;
+
+}
+
+
+
+
+
